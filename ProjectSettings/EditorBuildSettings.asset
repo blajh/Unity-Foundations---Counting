@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Prototype/Scenes/CountingPrototype.unity
+    guid: 4dd7f4b3f88e6994f87f5aaf08a3fdc3
   m_configObjects: {}
